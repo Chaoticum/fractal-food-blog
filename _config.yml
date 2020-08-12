@@ -12,7 +12,7 @@ navbar-links:
 
 # --- Logo --- #
 
-avatar: "/assets/img/romanesco.jpg"
+avatar: "/assets/img/romanesco-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
