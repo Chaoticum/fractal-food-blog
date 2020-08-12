@@ -5,5 +5,3 @@ title: Kontakt
 ---
 
 [info@fractal-food.cz](mailto:info@fractal-food.cz)
-
-test
