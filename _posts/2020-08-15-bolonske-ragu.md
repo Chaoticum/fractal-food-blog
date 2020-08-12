@@ -5,7 +5,7 @@ permalink: /bolonske-ragu/
 date: 2020-08-03
 author: Fractal Eater
 cover-img: https://img-global.cpcdn.com/recipes/6086885838422016/1200x630cq70/photo.jpg
-thumbnail-img: https://upload.wikimedia.org/wikipedia/commons/a/af/Homelard.jpg
+thumbnail-img: https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/assets/img/thumb.png
 share-img: https://upload.wikimedia.org/wikipedia/commons/a/af/Homelard.jpg
 tags: [itálie, oběd]
 ---
