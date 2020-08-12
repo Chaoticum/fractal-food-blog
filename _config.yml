@@ -158,7 +158,7 @@ future: false
 timezone: "Europe/Prague"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
