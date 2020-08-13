@@ -10,7 +10,9 @@ share-img: https://upload.wikimedia.org/wikipedia/commons/a/af/Homelard.jpg
 tags: [itálie, oběd]
 ---
 
-úvod
+Boloňské ragů nás doma patří mezi neoblíbenější pokrmy. Postupně ho ladíme k dokonalosti. Možná ho znáte pod názvem "boloňská omáčka" nebo "boloňské špagety". Ani jedno není správně. Ragů má jinou konzistenci než omáčka. Jedná se o maso vařené v omáčce a vytváří poměrně hustou konzistenci. A nefunguje moc dobře se špagetami, protože se na nich směs neudrží.
+
+Tradičně se používají spíše tagliatelle nebo fettuccine. Osobně preferuji fusilli, radiatori nebo farfalle. Případně rýži, se kterou ragů funguje také výborně.
 
 ## Seznam surovin
 
@@ -28,6 +30,7 @@ tags: [itálie, oběd]
 * Rajčatový protlak
 * Olivový olej
 * Tvrdý sýr (parmazán, Grana Padano)
+* Těstoviny | Rýže
 
 ## Postup - 5 hodin vaření
 
