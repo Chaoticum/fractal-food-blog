@@ -62,6 +62,10 @@ Boloňská se dá zmáknout i o něco rychleji.
 
 ![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 21.23.29.jpg) \
 
+### Hotovo
+
+![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-14 -7.jpg) \
+
 ## Volitelné suroviny
 
 **Slanina nebo Pancetta** - může přijít do cibulového základu. Osobně mi ale přijde zbytečná, bez většího efektu na výsledné jídlo.
