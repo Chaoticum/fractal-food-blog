@@ -4,9 +4,9 @@ title: "Recept na boloňské ragů"
 permalink: /bolonske-ragu/
 date: 2020-08-03
 author: Fractal Eater
-cover-img: https://img-global.cpcdn.com/recipes/6086885838422016/1200x630cq70/photo.jpg
-thumbnail-img: https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/assets/img/thumb.png
-share-img: https://upload.wikimedia.org/wikipedia/commons/a/af/Homelard.jpg
+cover-img: assets/post-img/2020-08-15-bolonske-ragu/02-cover-bolonske-ragu.jpg
+thumbnail-img: assets/post-img/2020-08-15-bolonske-ragu/01-thumb-bolonske-ragu.jpg
+share-img: assets/post-img/2020-08-15-bolonske-ragu/02-cover-bolonske-ragu.jpg
 tags: [itálie, oběd]
 ---
 
@@ -30,7 +30,7 @@ Tradičně se používají spíše tagliatelle nebo fettuccine. Osobně preferuj
 * Rajčatový protlak
 * Olivový olej
 * Tvrdý sýr (parmazán, Grana Padano)
-* Těstoviny | Rýže
+* Těstoviny nebo rýže
 
 ## Postup - 5 hodin vaření
 
@@ -45,16 +45,22 @@ Boloňská se dá zmáknout i o něco rychleji.
 * Připravte si kuchyňského robota.
 * Připravte si větší pánev na sporák a rozehřejte ji.
 
+![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.10.10.jpg) \
+
 ### Restování zeleniny a masa - 60 minut
 
 * Do robota vložte **cibuli**, zpracujte na drobna a rovnou ji můžete začít smažit.
 * Stejným způsobem si pomocí robota připravte **mrkev**, **kořenovou petržel** a **řapíkatý celer** do misky.
 
+![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.30.48.jpg) \
+
 ### Restování masa - 15 minut
+
+![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.59.10.jpg) \
 
 ### Pomalé vaření - 3 hodiny
 
-*
+![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 21.23.29.jpg) \
 
 ## Volitelné suroviny
 
