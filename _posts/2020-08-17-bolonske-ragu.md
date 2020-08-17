@@ -7,7 +7,7 @@ author: Fractal Eater
 cover-img: assets/post-img/2020-08-17-bolonske-ragu/02-cover-bolonske-ragu.jpg
 thumbnail-img: assets/post-img/2020-08-17-bolonske-ragu/01-thumb-bolonske-ragu.jpg
 share-img: assets/post-img/2020-08-17-bolonske-ragu/02-cover-bolonske-ragu.jpg
-tags: [itálie, oběd. bezlepkové]
+tags: [itálie, oběd, bezlepkové]
 ---
 
 Boloňské ragů či "boloňská" u nás doma patří mezi neoblíbenější pokrmy. Postupně ho ladíme k dokonalosti. Možná ho znáte pod názvem "boloňská omáčka" nebo "boloňské špagety". Ani jedno není správně. Ragů má podstatně hutnější konzistenci než omáčka. A nefunguje moc dobře se špagetami, protože se na nich směs moc dobře neudrží.

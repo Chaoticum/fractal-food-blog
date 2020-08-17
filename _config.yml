@@ -7,6 +7,7 @@ description: Blog o jídle, surovinách a jiných lahůdkách
 author: Fractal Eater
 
 navbar-links:
+ O blogu: "o-blogu/"  
  Kontakt: "kontakt/"
 # Nejaky odkaz: "https://fractal-food.cz"
 

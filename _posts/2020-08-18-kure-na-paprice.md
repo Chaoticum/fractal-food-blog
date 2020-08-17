@@ -2,23 +2,21 @@
 layout: post
 title: "Kuře na paprice"
 permalink: /kure-na-paprice/
-date: 2020-08-17
+date: 2020-08-18
 author: Fractal Eater
-cover-img: assets/post-img/
-thumbnail-img: assets/post-img/
-share-img: assets/post-img/
+cover-img: assets/post-img/02-cover-kure-na-paprice.jpg
+thumbnail-img: assets/post-img/01-thumb-kure-na-paprice.jpg
+share-img: assets/post-img/02-cover-kure-na-paprice.jpg
 tags: [itálie, oběd, bezlepkové]
 ---
 
-Boloňské ragů u nás doma patří mezi neoblíbenější pokrmy. Postupně ho ladíme k dokonalosti. Možná ho znáte pod názvem "boloňská omáčka" nebo "boloňské špagety". Ani jedno není správně. Ragů má jinou konzistenci než omáčka. Jedná se o maso vařené v omáčce a vytváří poměrně hustou konzistenci. A nefunguje moc dobře se špagetami, protože se na nich směs neudrží.
-
-Tradičně se používají spíše tagliatelle nebo fettuccine. Osobně preferuji fusilli, radiatori nebo farfalle. Případně rýži, se kterou ragů funguje také výborně.
+blabla
 
 ## Seznam surovin (4 porce)
 
 * Kuře
-* Mletá paprika (sladká)
 * Žlutá cibule
+* Mletá paprika (sladká)
 * Smetana ke šlehání (31 %)
 * Rýže
 * Máslo
@@ -30,33 +28,36 @@ Tradičně se používají spíše tagliatelle nebo fettuccine. Osobně preferuj
 
 
 
-### Příprava surovin - 60 minut
+### Příprava surovin - 15 minut
 
 * Rozporcujte a vykostěte **kuře**. Kosti nevyhazujte.
 * Oloupejte **cibuli** a nakrájejte nadrobno.
-* Orestujte **cibuli**, přidejte trošku **másla**, zlehka posypjte škrobem, hojně paprikou, přijte kosti ze stehen a zalejte vodou. 
 
-![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.10.10.jpg)
 
-### Papriková omáčka - 30 minut
+![Porcování kuřete](../assets/post-img/2020-08-18-kure-na-paprice/porcovani.jpg "Porcování kuřete") ![Vykostění kuřete](../assets/post-img/2020-08-18-kure-na-paprice/vykosteni.jpg "Vykostění kuřete")
 
-*
+### Papriková omáčka - 30-60 minut
+
+* Orestujte **cibuli**, přidejte trošku **másla**, zlehka posypjte škrobem, hojně paprikou, přijte kosti ze stehen a zalejte vodou.
 
 ![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.30.48.jpg)
 
 ### Maso a rýže - 15 minut
 
-![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.59.10.jpg)
-
-### Pomalé vaření - 3 hodiny
-
-![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 21.23.29.jpg)
+* Dejte vařit rýži v osolené vodě.
+* Rozpalte si pánev. Dejte na ni trošku oleje a kůží dospod začněte pomalu opékat kuře.
+* Až je kůžička za 10-15 minut pěkně vypečená do křupava, tak otočte a opečte i z druhé strany. Stehno bude trvat už jen cca 2 minuty, prso cca 4 minuty.
 
 ###
 
-### Hotovo
+### Hotovo, servírujeme
 
-![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-14 -7.jpg)
+* Na talíř dejte **rýži**. Opečený šťavnatý **kuřecí prsní** nebo **stehnení řízek** s křupavou kůžičkou.
+* Zalejte **paprikovou omáčkou**.
+* Do omáčky dejte trošku výpeku z kuřete.
+* Případně dozdobte nějakou čerstvou bylinkou dle chuti a možností - petržel, pažitka, bazalka.
+
+![Kuře na paprice](../assets/post-img/2020-08-18-kure-na-paprice/kure-na-paprice.jpg "Kuře na paprice")
 
 ## Volitelné suroviny, tipy a poznámky
 
