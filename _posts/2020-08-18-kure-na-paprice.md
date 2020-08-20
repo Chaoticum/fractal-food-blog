@@ -55,7 +55,7 @@ blabla
 * Na talíř dejte **rýži**. Opečený šťavnatý **kuřecí prsní** nebo **stehnení řízek** s křupavou kůžičkou.
 * Zalejte **paprikovou omáčkou**.
 * Do omáčky dejte trošku výpeku z kuřete.
-* Případně dozdobte nějakou čerstvou bylinkou dle chuti a možností - petržel, pažitka, bazalka.
+* Dozdobte nějakou čerstvou bylinkou dle chuti a možností - petržel, pažitka, bazalka.
 
 ![Kuře na paprice](../assets/post-img/2020-08-18-kure-na-paprice/kure-na-paprice.jpg "Kuře na paprice")
 
