@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Kuře na paprice"
-permalink: /kure-na-paprice/
-date: 2020-08-18
+title: "Dušená játra na cibulce a slanině"
+permalink: /dusena-jatra-na-cibulce-se-slaninou/
+date: 2020-08-20
 author: Fractal Eater
-cover-img: assets/post-img/2020-08-18-kure-na-paprice/02-cover-kure-na-paprice.jpg
-thumbnail-img: assets/post-img/2020-08-18-kure-na-paprice/01-thumb-kure-na-paprice.jpg
-share-img: assets/post-img/2020-08-18-kure-na-paprice/02-cover-kure-na-paprice.jpg
-tags: [itálie, oběd, bezlepkové]
+cover-img: assets/post-img/
+thumbnail-img: assets/post-img/
+share-img: assets/post-img/
+tags: [oběd, bezlepkové]
 ---
 
 blabla
