@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recept na boloňské ragů"
+title: "Boloňské ragů"
 permalink: /bolonske-ragu/
 date: 2020-08-17
 author: Fractal Eater
