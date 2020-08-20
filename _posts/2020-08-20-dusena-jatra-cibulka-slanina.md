@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dušená játra na cibulce se slaninou"
+title: "Dušená játra na cibulce se slaninou [recept]"
 permalink: /dusena-jatra-na-cibulce/
 date: 2020-08-20
 author: Fractal Eater
