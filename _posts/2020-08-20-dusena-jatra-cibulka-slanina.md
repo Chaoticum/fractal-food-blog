@@ -1,66 +1,68 @@
 ---
 layout: post
-title: "Dušená játra na cibulce a slanině"
-permalink: /dusena-jatra-na-cibulce-se-slaninou/
+title: "Dušená játra na cibulce se slaninou"
+permalink: /dusena-jatra-na-cibulce/
 date: 2020-08-20
 author: Fractal Eater
-cover-img: assets/post-img/
-thumbnail-img: assets/post-img/
-share-img: assets/post-img/
+cover-img: assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/02-cover-jatra-na-cibulce.jpg
+thumbnail-img: assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/01-thumb-jatra-na-cibulce.jpg
+share-img: assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/02-cover-jatra-na-cibulce.jpg
 tags: [oběd, bezlepkové]
 ---
 
-blabla
+Játra na cibulce jsou parádní a levná rychlovka.
 
 ## Seznam surovin (4 porce)
 
-* Kuře
+* Kuřecí játra
 * Žlutá cibule
-* Mletá paprika (sladká)
-* Smetana ke šlehání (31 %)
+* Slanina
 * Rýže
-* Máslo
-* Mouka nebo škrob
-* Sůl
+* Majoránka
+* Petržel
 * Pepř
+* Sůl
+* Voda
 
-## Postup (1,5 hodiny vaření)
+## Postup (45 minut vaření)
 
-
+U tohoto receptu neočekávejte žádné velké složitosti. Jen si pamatujte, že je ideální dušená játra solit až úplně na konci.
 
 ### Příprava surovin - 15 minut
 
-* Rozporcujte a vykostěte **kuře**. Kosti nevyhazujte.
-* Oloupejte **cibuli** a nakrájejte nadrobno.
+* **Kuřecí játra** propláchněte, očistěte a případně pokrájejte na menší kousky.
+* **Cibuli** oloupejte a nakrájejte nadrobno.
+* **Slaninu** nakrájete na malé kostičky.
 
+![Příprava surovin](../assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/priprava.jpg "Příprava surovin")
 
-![Porcování kuřete](../assets/post-img/2020-08-18-kure-na-paprice/porcovani.jpg "Porcování kuřete") ![Vykostění kuřete](../assets/post-img/2020-08-18-kure-na-paprice/vykosteni.jpg "Vykostění kuřete")
+### Restování - 15 minut  
 
-### Papriková omáčka - 30-60 minut
+* **Cibuli** v menším hrnci orestujte do zlatova.
+* Do hrnce přidejte **slaninu** a nechejte trochu vypéct.
+* Do hrnce přidejte **játra** a lehce orestujte.
 
-* Orestujte **cibuli**, přidejte trošku **másla**, zlehka posypjte škrobem, hojně paprikou, přijte kosti ze stehen a zalejte vodou.
+### Dušení jater a vaření rýže - 15 minut
 
-![kniha](/assets/post-img/2020-08-15-bolonske-ragu/2020-08-12 20.30.48.jpg)
+* Směs v hrnci lehce **opepřete**. Přidejte trošku **majoránky**.
+* Směs promíchejte a zalejte vodou a nechejte cca 15 minut podusit.
+* Dejte vařit **rýži**.
+* Hotová dušená játra **osolte**.
 
-### Maso a rýže - 15 minut
-
-* Dejte vařit rýži v osolené vodě.
-* Rozpalte si pánev. Dejte na ni trošku oleje a kůží dospod začněte pomalu opékat kuře.
-* Až je kůžička za 10-15 minut pěkně vypečená do křupava, tak otočte a opečte i z druhé strany. Stehno bude trvat už jen cca 2 minuty, prso cca 4 minuty.
-
-###
+![Vaření](../assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/vareni.jpg "Vaření")
 
 ### Hotovo, servírujeme
 
-* Na talíř dejte **rýži**. Opečený šťavnatý **kuřecí prsní** nebo **stehnení řízek** s křupavou kůžičkou.
-* Zalejte **paprikovou omáčkou**.
-* Do omáčky dejte trošku výpeku z kuřete.
-* Dozdobte nějakou čerstvou bylinkou dle chuti a možností - petržel, pažitka, bazalka.
+* Na talíř dejte **rýži**.
+* Přidejte **dušená játra na cibulce se slaninou** a štávu.
+* Dozdobte **petrželkou**.
 
-![Kuře na paprice](../assets/post-img/2020-08-18-kure-na-paprice/kure-na-paprice.jpg "Kuře na paprice")
+![Dušená játra na cibulce se slaninou](../assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/jatra-na-cibulce.jpg "Dušená játra na cibulce se slaninou")
 
 ## Volitelné suroviny, tipy a poznámky
 
-**Mletá paprika** je nejdůležitější surovina na tomto receptu. Obyčejná sladká paprika je fajn. Můžete přidat i trošku pálivé, aby mělo jídlo větší šmrnc. Osobně ujíždím na maďarské paprice. se kterou nemůžete udělat chybu.
+* Čerstvá **kuřecí játra** se rychle kazí. Tuto surovinu proto moc dlouho neskladujte a uvařte co nejdříve.
 
-**Celé kuře** je na zpracování složitejší než když si koupíte balení stehen nebo stehenních řízků. Má ovšem pár výhod. Naučíte se něco nového. Ušetříte, protože celé kuře je na kila levnější než jednotlivé díly. Získáte zároveň i suroviny a kosti na kuřecí vývar. A kvalitnější kuřata se prostě prodávají v celku.
+* **Kuřecí játra** jsou uvařená opravdu za chvilku. Proto je na sporáku moc dlouho netrapte, ať nejsou příliš vysušená.
+
+* **Slanina** je volitená surovina. Ale asi nikoho neurazí.
