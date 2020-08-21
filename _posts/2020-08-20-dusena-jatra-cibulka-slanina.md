@@ -10,14 +10,14 @@ share-img: assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/02-cover-jatr
 tags: [oběd, bezlepkové]
 ---
 
-Játra na cibulce jsou parádní a levná rychlovka.
+Játra na cibulce jsou parádní a levná rychlovka. Pokud se nerozhodnete koupit prémiová játra z farmářského kuřete.
 
-## Seznam surovin (4 porce)
+## Seznam surovin (4 porce - 170 Kč)
 
-* Kuřecí játra
-* Žlutá cibule
-* Slanina
-* Rýže
+* Kuřecí játra - 0,5 Kg - 80 Kč
+* Žlutá cibule - 250 g - 5 Kč
+* Slanina - 150 g - 60 Kč
+* Rýže - 200 g - 25 Kč
 * Majoránka
 * Petržel
 * Pepř
