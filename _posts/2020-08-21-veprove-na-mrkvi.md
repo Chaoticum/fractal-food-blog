@@ -10,7 +10,7 @@ share-img: assets/post-img/2020-08-21-veprove-na-mrkvi/02-cover-veprove-na-mrkvi
 tags: [oběd, bezlepkové]
 ---
 
-Prim na talíři obvykle hraje maso. U vepřového na mrkvi to není až tak jisté. Maso soupeří o prvenství se skvělými bramborami na másle a petrželkou. A především s úžasnou mrkví nasáklé vypečenou šťávou z masa. Za mě vítězí mrkev.
+Prim na talíři obvykle hraje maso. U vepřového na mrkvi to není až tak jisté. Maso soupeří o prvenství se skvělými bramborami na másle a petrželkou. A především s mrkví nasáklou vypečenou šťávou z masa. Za mě vítězí mrkev.
 
 ## Seznam surovin (6 porcí - 395 Kč)
 
