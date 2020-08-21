@@ -2,7 +2,7 @@
 layout: post
 title: "Míchaná vajíčka se slaninou [recept]"
 permalink: /michana-vajicka-se-slaninou/
-date: 2020-08-21
+date: 2020-08-22
 author: Fractal Eater
 cover-img: assets/post-img/2020-08-22-michana-vajicka-se-slaninou/02-cover-michana-vajicka-se-slaninou.jpg
 thumbnail-img: assets/post-img/2020-08-22-michana-vajicka-se-slaninou/01-thumb-michana-vajicka-se-slaninou.jpg
