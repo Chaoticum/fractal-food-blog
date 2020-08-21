@@ -7,7 +7,7 @@ author: Fractal Eater
 cover-img: assets/post-img/2020-08-18-kure-na-paprice/02-cover-kure-na-paprice.jpg
 thumbnail-img: assets/post-img/2020-08-18-kure-na-paprice/01-thumb-kure-na-paprice.jpg
 share-img: assets/post-img/2020-08-18-kure-na-paprice/02-cover-kure-na-paprice.jpg
-tags: [itálie, oběd, bezlepkové]
+tags: [česká, oběd, bezlepkové]
 ---
 
 Jedno z mých nejoblíbenějších jídel. Luxusní šťavnaté kuře s dokřupava yvpečenou kůžičkou a hromadou parádní paprikové omáčky. Nepřekonatelné.
