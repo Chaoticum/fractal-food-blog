@@ -51,7 +51,7 @@ Recept je velice jednoduchý, ale přípravy jsou nečekaně zdlouhavé.
 * Dejte **brambory** vařit do **osolené** vody. Můžete přidat i stonky petržele.
 * Po uběhnutí 60 minut vyndejte pekáč z trouby. Na chvíli vyndejte maso bokem.
 * Mrkvovou směs pořádně promíchejte. Dle potřeby dochuťte a znovu podlejte **vodou**.
-* Mrkev je v této chvíli ještě trochu tvrdá
+* Mrkev je v této chvíli ještě trochu tvrdá.
 * Vraťte maso do pekáče, přikrejte a dejte do trouby na dalších 30 minut stále při 180°C.
 * Slejte uvařené brambory. Petrželové stonky vyhoďte.
 * Do brambor přihoďte poctivou dávku **másla**, pokrájenou **petrželovou nať** a promíchejte.
@@ -68,4 +68,4 @@ Recept je velice jednoduchý, ale přípravy jsou nečekaně zdlouhavé.
 
 ## Volitelné suroviny, tipy a poznámky
 
-* Původně jsme maso na mrkvi pekli klasickým způsobem. Ale po delším experimentování a neustálém zvyšování dávky mrkve se jedná spíše o **brazírování**. Tedy dušení zprudka opečeného masa v tekutině. Tekutinu zde vytváří mrkvová šťáva a voda na podlití. 
+* Původně jsme maso na mrkvi pekli klasickým způsobem. Ale po delším experimentování a neustálém zvyšování dávky mrkve se jedná spíše o **brazírování**. Tedy dušení zprudka opečeného masa v tekutině. Tekutinu zde vytváří mrkvová šťáva a voda na podlití.
