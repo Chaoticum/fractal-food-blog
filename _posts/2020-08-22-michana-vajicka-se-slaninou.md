@@ -10,7 +10,7 @@ share-img: assets/post-img/2020-08-20-dusena-jatra-cibulka-slanina/02-cover-mich
 tags: [snídaně, večeře, bezlepkové]
 ---
 
-Prim na talíři obvykle hraje maso. U vepřového na mrkvi to není až tak jisté. Maso soupeří o prvenství se skvělými bramborami na másle a petrželkou. A především s úžasnou mrkví nasáklé vypečenou šťávou z masa. Za mě vítězí mrkev.
+Skvělé na snídani i na večeři. Dobrá slanina, domácí vejce a čerstvé bylinky jsou ultimátní kombinace, kterou není snadné překonat. 
 
 ## Seznam surovin (2 porce - 110 Kč)
 

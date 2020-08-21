@@ -68,4 +68,4 @@ Recept je velice jednoduchý, ale přípravy jsou nečekaně zdlouhavé.
 
 ## Volitelné suroviny, tipy a poznámky
 
-* Původně jsme maso na mrkvi pekli klasickým způsobem. Ale po delším experimentování a neustálém zvyšování dávky mrkve se jedná spíše o **brazírování**.
+* Původně jsme maso na mrkvi pekli klasickým způsobem. Ale po delším experimentování a neustálém zvyšování dávky mrkve se jedná spíše o **brazírování**. Tedy dušení zprudka opečeného masa v tekutině. Tekutinu zde vytváří mrkvová šťáva a voda na podlití. 

@@ -10,7 +10,7 @@ share-img: assets/post-img/2020-08-23-sirupy-oktarina/02-cover-sirupy-oktarina.j
 tags: [recenze]
 ---
 
-Štáva u nás doma frčí stabilním a svižným tempem. Až se občas nestačím divit. Postupně přecházíme na luxusnější značky a máme rádi domácí a poctivé výrobky. Nemohli jsme si proto nechat ujít sirupy Oktarína. Testované a recenzované sirupy byly dva - Oktarína TR malinový a zázvorový. Jaké to bylo? 
+Štáva u nás doma frčí stabilním a svižným tempem. Až se občas nestačím divit. Postupně přecházíme na luxusnější značky a máme rádi domácí a poctivé výrobky. Nemohli jsme si proto nechat ujít sirupy Oktarína. Testované a recenzované sirupy byly dva - Oktarína TR malinový a zázvorový. Jaké to bylo?
 
 ## První dojem
 
@@ -52,7 +52,7 @@ Cena sirupu se pohybuje kolem 130 Kč za 500 ml. Prémiovému poctivému produkt
 
 Nerozumím proč tohle šlo do prodeje. Receptura zjevně není vyladěná a má do toho ještě zatraceně daleko. Tady je nutné podotknout, že na trhu již nějakou chvíli jsou a pomalu pronikají i do supermarketů. Takže to asi lidem chutná .
 
-Mně tedy rozhodně nechutná a znovu už tyhle sirupy pít nechci. Kdybych chtěl pít sladkou vodu bez chuti, tak si do ní můžu přidat lžíci cukru. Výsledek bude stejný a ušetřím spoustu peněz.
+Mně, ani mému okolí, výrobky Oktarína TR tedy rozhodně nechutnají a znovu už tyhle sirupy nechci. Kdybych chtěl pít sladkou vodu bez chuti, tak si do ní můžu přidat lžíci cukru. Výsledek bude stejný a ušetřím spoustu peněz.
 
 ## P.S.:
 
