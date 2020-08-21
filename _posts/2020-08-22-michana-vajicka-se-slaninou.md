@@ -37,6 +37,8 @@ Tohle musí zvládnout každý.
 * **Slaninu** opečte na pávni.
 * Vypečený tuk slejte bokem.
 
+![Vejce na pánvi](../assets/post-img/2020-08-22-michana-vajicka-se-slaninou/panev.jpg "Vejce na pánvi")
+
 ### Vajíčka - 5 minut
 
 * **Vajíčka** přilejte do pánve ke slanině a **opepřete**.
@@ -44,7 +46,7 @@ Tohle musí zvládnout každý.
 * Finální konzistence má "šťavnatá".
 * Pánve odstavte bokem. Lehce **osolte**, přidejte nasekanou **petrželovou nať** a hrstku **parmazánu**. Promíchejte.
 
-![Vejce na pánvi](../assets/post-img/2020-08-22-michana-vajicka-se-slaninou/panev.jpg "Vejce na pánvi")
+![Hotová vajíčka](../assets/post-img/2020-08-22-michana-vajicka-se-slaninou/vajicka.jpg "Hotová vajíčka")
 
 ### Hotovo, servírujeme
 
