@@ -27,7 +27,7 @@ Prim na talíři obvykle hraje maso. U vepřového na mrkvi to není až tak jis
 
 ## Postup (3 hodiny vaření)
 
-Recept je velice jednoduchý, ale přípravy jsou nečekaně zdlouhavé.
+Recept je velice jednoduchý, ale přípravy jsou nečekaně zdlouhavé. Oškrábat a nastrouhat dvě kila mrkve prostě trvá. Ani cibule není úplně málo. 
 
 ### Příprava surovin a začátek pečení - 1,5 hodiny
 
