@@ -34,17 +34,17 @@ Tohle musí zvládnout každý.
 
 ### Slanina - 5 minut
 
-* **Slaninu** opečte na pávni.
-* Vypečený tuk slejte bokem.
+* **Slaninu** opečte na pánvi.
+* Vypečený tuk slijte bokem.
 
 ![Vejce na pánvi](../assets/post-img/2020-08-22-michana-vajicka-se-slaninou/panev.jpg "Vejce na pánvi")
 
 ### Vajíčka - 5 minut
 
-* **Vajíčka** přilejte do pánve ke slanině a **opepřete**.
+* **Vajíčka** přilijte do pánve ke slanině a **opepřete**.
 * Pravidelně míchejte a odstavujte bokem z plotýnky, aby se vajíčka nevysušily, nepřipekly a nepřichytly k pánvi.
-* Finální konzistence má "šťavnatá".
-* Pánve odstavte bokem. Lehce **osolte**, přidejte nasekanou **petrželovou nať** a hrstku **parmazánu**. Promíchejte.
+* Finální konzistence má být "šťavnatá".
+* Pánev odstavte bokem. Lehce **osolte**, přidejte nasekanou **petrželovou nať** a hrstku **parmazánu**. Promíchejte.
 
 ![Hotová vajíčka](../assets/post-img/2020-08-22-michana-vajicka-se-slaninou/vajicka.jpg "Hotová vajíčka")
 
@@ -60,6 +60,6 @@ Tohle musí zvládnout každý.
 
 * **Vajíčka** se dělají opravdu rychle. Stačí jim 2-3 minuty. Snažte se je nevysušit.
 * **Vajíčka** nešlehejte. Stačí je promíchat na pávni.
-* Krom vajec a soli můžete přidat nebo ubrat prakticky libovolnou surovinu. Vynechejte slaninu a máte vegetariánský pokrm. Parmazán dáváme do vajíček jen když zbyde z jiného jídla. Záleží na chuti a rozpočtu. Nejdražší suroviny stejně budou vejce, pokud preferujete bio a volný výběh.
+* Krom vajec a soli můžete přidat nebo ubrat prakticky libovolnou surovinu. Vynechejte slaninu a máte vegetariánský pokrm. Parmazán dáváme do vajíček jen když zbyde z jiného jídla. Záleží na chuti a rozpočtu. Nejdražší surovinou stejně budou vejce, pokud preferujete bio nebo volný výběh.
 * **Čerstvé bylinky** nejsou vždy po ruce. Sušené jsou taky v pohodě, ale nejsou chuťově až tak výrazné.
 * Občas se přidává k vajíčkům trošku **mléka**, **smetany** nebo jen **vody**. Mléko a smetana pokrm trošku zjemní. Ale primární účel je zvlhčovací. Tyto komponenty totiž pomohou udržet vejce štavnatější a trošku ubránit před vysušením. Ale třeba skvělá domácí vejce je škoda vylepšovat mléčným produktem. S trochou praxe budou perfektní i bez toho.
