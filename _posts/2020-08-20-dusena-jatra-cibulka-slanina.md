@@ -44,7 +44,7 @@ U tohoto receptu neočekávejte žádné velké složitosti. Jen si pamatujte, �
 
 ### Dušení jater a vaření rýže - 15 minut
 
-* Směs v hrnci lehce **opepřete**. Přidejte trošku **majoránky**.
+* Směs v hrnci lehce **opepřete**. Přidejte špetku **majoránky**.
 * Směs promíchejte a zalejte vodou a nechejte cca 15 minut podusit.
 * Dejte vařit **rýži**.
 * Hotová dušená játra **osolte**.
