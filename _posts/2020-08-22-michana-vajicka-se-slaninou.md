@@ -59,7 +59,7 @@ Tohle musí zvládnout každý.
 ## Volitelné suroviny, tipy a poznámky
 
 * **Vajíčka** se dělají opravdu rychle. Stačí jim 2-3 minuty. Snažte se je nevysušit.
-* **Vajíčka** nešlehejte. Stačí je promíchat na pávni.
+* **Vajíčka** nešlehejte. Stačí je promíchat na pánvi.
 * Krom vajec a soli můžete přidat nebo ubrat prakticky libovolnou surovinu. Vynechejte slaninu a máte vegetariánský pokrm. Parmazán dáváme do vajíček jen když zbyde z jiného jídla. Záleží na chuti a rozpočtu. Nejdražší surovinou stejně budou vejce, pokud preferujete bio nebo volný výběh.
 * **Čerstvé bylinky** nejsou vždy po ruce. Sušené jsou taky v pohodě, ale nejsou chuťově až tak výrazné.
 * Občas se přidává k vajíčkům trošku **mléka**, **smetany** nebo jen **vody**. Mléko a smetana pokrm trošku zjemní. Ale primární účel je zvlhčovací. Tyto komponenty totiž pomohou udržet vejce štavnatější a trošku ubránit před vysušením. Ale třeba skvělá domácí vejce je škoda vylepšovat mléčným produktem. S trochou praxe budou perfektní i bez toho.
