@@ -37,7 +37,7 @@ Tradičně se používají spíše tagliatelle nebo fettuccine. Osobně preferuj
 
 Pokud chcete mít na oběd opravdu dobrou boloňskou, tak budete muset začít vařit kolem 7 hodiny ráno nebo ideálně začít o den dříve. Je potřeba zpracovat hodně surovin a ragů dlouho vařit. Čas berte s rezervou. My vaříme obří várku na 12 a více porcí a proto trvají přípravy docela dlouho.
 
-Optimální jsou cca 3 hodiny vaření. I to se dá urychlit. Ragů můžete prohlásit za hotové klidně po půl hodině. Vššchno bude dostatečně provařené, ale chutě se nestihnou propojit a nebude to ono. Takže si raději udělejte dost času nebo vaření odložte na jindy.
+Optimální jsou cca 3 hodiny vaření. I to se dá urychlit. Ragů můžete prohlásit za hotové klidně po půl hodině. Všechno bude dostatečně provařené, ale chutě se nestihnou propojit a nebude to ono. Takže si raději udělejte dost času nebo vaření odložte na jindy.
 
 ### Příprava surovin - 60 minut
 
@@ -47,7 +47,7 @@ Optimální jsou cca 3 hodiny vaření. I to se dá urychlit. Ragů můžete pro
 * Všechno omyjte a připravte k dalšímu zpracování.
 * Připravte si kuchyňského robota.
 * Připravte si větší pánev na sporák a pomalu ji rozehřejte.
-* Vyndejte z lednice **mleté maso**, dejte do mísy, nakořeňte **solí**, **mletým pepřem**, **mletým rozmarýnem**, **tymiánem** a **bazalkou**. Směs řádně promíchete a nechte odložit.
+* Vyndejte z lednice **mleté maso**, dejte do mísy, nakořeňte **solí**, **mletým pepřem**, **mletým rozmarýnem**, **tymiánem** a **bazalkou**. Směs řádně promíchete a nechte odležet.
 
 ![Příprava](../assets/post-img/2020-08-17-bolonske-ragu/priprava.jpg "Příprava")
 
@@ -58,7 +58,7 @@ Optimální jsou cca 3 hodiny vaření. I to se dá urychlit. Ragů můžete pro
 * Na sporák si připravte velký kastrol a přendejte do něj do hotovou **cibuli**.
 * Na pánvi postupně orestujte nasekanou zeleninu a přidávejte ji do kastrolu k cibuli.
 * Kastrol pomalu začněte rozehřívat. Pozor, aby se zelenina nespálila.
-* Na konec na pánvi orestujte ochucenou směs **mletého masa**.
+* Nakonec na pánvi orestujte ochucenou směs **mletého masa**.
 * Z masa se pravděpodobně vypeče nějaký tuk. Doporučuji si ho odlít bokem a do finální směsi ho přidat dle vlastního uvážení, aby nebyla boloňská zbytečně mastná.
 * **Hotové maso** a vypečený tuk přihoďte k zelenině.
 
@@ -70,7 +70,7 @@ Optimální jsou cca 3 hodiny vaření. I to se dá urychlit. Ragů můžete pro
 
 * Směs zeleniny a masa zalijte **pasírovanými rajčaty**, dle potřeby přidejte vodu. Směs by měla být kompletně ponořená v tekutině, ale neměla by plavat.
 * Občas promíchtejte a průběžně ochutnávejte a dochucujte **solí**, **mletým pepřem**, **mletým rozmarýnem**, **tymiánem** a **bazalkou**.
-* Dochucujte opatrně a nechejte koření čas, aby se do jídla zapracovalo. Ani jedna z bylinka, by neměla extrémně vynikat na úkor ostatních. A opatrně i se solí. Možná to tak nemusí ze začátku působit, ale boloňskou lze přesolit velice jednoduše.
+* Dochucujte opatrně a nechejte koření čas, aby se do jídla zapracovalo. Ani jedna bylinka by neměla extrémně vynikat na úkor ostatních. A opatrně i se solí. Možná to tak nemusí ze začátku působit, ale boloňskou lze přesolit velice jednoduše.
 * Nezapomeňte, že i těstoviny budete vařit v osolené vodě. A jídlo budete při servírování sypat parmazánem, který je také hodně slaný.
 
 ![kniha](../assets/post-img/2020-08-17-bolonske-ragu/hotova-smes.jpg)
@@ -88,13 +88,13 @@ Optimální jsou cca 3 hodiny vaření. I to se dá urychlit. Ragů můžete pro
 
 ## Volitelné suroviny, tipy a poznámky
 
-Do základu můžete přidat i **pancettu** nebo **slaninu**. Osobně mi ale přijde zbytečné a bez většího efektu na výsledné jídlo.
+Do základu můžete přidat i **pancettu** nebo **slaninu**. Osobně mi to ale přijde zbytečné a bez většího efektu na výsledné jídlo.
 
 **Máslo** může přijít do cibulového základu. Osobně mi ale přijde zbytečné, bez většího efektu na výsledné jídlo.
 
 Přidat do masového základu **červené víno** jsme zatím nezkoušeli, ale otestujeme při dalším vaření.
 
-Požívejte sušený mletý **rozmarýn**. Celý čerstvý nebo celý sušený rozmarýn případně poctivě překrájete nebo rozdrťte v moždíři, protože je příliš tvrdý a nehodí se do textury ragů.
+Požívejte sušený mletý **rozmarýn**. Celý čerstvý nebo celý sušený rozmarýn případně poctivě překrájete nebo rozdrťte v hmoždíři, protože je příliš tvrdý a nehodí se do textury ragů.
 
 Někdo do boloňské přidává **bobkový list**. Vyzkoušel jsem a nevidím v tom moc velký přínos. Ale zkusit to můžete.
 
