@@ -10,7 +10,7 @@ share-img: assets/post-img/2020-08-18-kure-na-paprice/02-cover-kure-na-paprice.j
 tags: [česká, oběd, bezlepkové]
 ---
 
-Jedno z mých nejoblíbenějších jídel. Luxusní šťavnaté kuře s dokřupava yvpečenou kůžičkou a hromadou parádní paprikové omáčky. Nepřekonatelné.
+Jedno z mých nejoblíbenějších jídel. Luxusní šťavnaté kuře s dokřupava vypečenou kůžičkou a hromadou parádní paprikové omáčky. Nepřekonatelné.
 
 ## Seznam surovin (4 porce)
 
@@ -38,12 +38,12 @@ Hodně záleží zda se rozhodnete použít celé kuře. A jak s ním budete pra
 ### Papriková omáčka - 30-60 minut
 
 * Orestujte do zlatova **cibuli**, přidejte trošku **másla**, zlehka posypejte **škrobem**, hojně **paprikou**, přijte **kosti ze stehen** a zalejte **vodou**.
-* Vařte alespoň 30 minut, aby se stihly vyvařit kosti ze stehen. Když budete vařit déle omáčce to rozhodně neublíží.
+* Vařte alespoň 30 minut, aby se stihly vyvařit kosti ze stehen. Když budete vařit déle, omáčce to rozhodně neublíží.
 * Pokud omáčka není dostatečně hustá, tak si v mističce důkladně rozmíchejte **škrob** s vodou, přilejte k omáčce a pár minut provařte.
 * Dle potřeby průběžně dochucujte **solí**, **pepřem** a **mletou paprikou**.
 * Z omáčky vytáhněte kosti. A řádně ji prožeňte tyčovým mixérem, aby v ní nezůstaly žádné kousky.
 * Do omáčky přilejte trošku **smetany** na zjemnění. Stačí jen 50-70 ml. Znovu prožeňte tyčovým mixérem.
-* Omáčku finálně dochuťte **solí**, promíchejte a přes jemné sítko preceďte. Sítko zachytí všechno co v omáčce být nemá - větší kousky pepře, nerozmixovanou cibuli a škorobové žmolky.
+* Omáčku finálně dochuťte **solí**, promíchejte a přes jemné sítko přeceďte. Sítko zachytí všechno co v omáčce být nemá - větší kousky pepře, nerozmixovanou cibuli a škorobové žmolky.
 
 ![Základ omáčky](../assets/post-img/2020-08-18-kure-na-paprice/zaklad.jpg "Základ omáčky")
 
@@ -57,7 +57,7 @@ Hodně záleží zda se rozhodnete použít celé kuře. A jak s ním budete pra
 ### Hotovo, servírujeme
 
 * Na talíř dejte **rýži**. Opečený šťavnatý **kuřecí prsní** nebo **stehnení řízek** s křupavou kůžičkou.
-* Zalejte **paprikovou omáčkou**.
+* Zalejte **paprikovou omáčkou**, ideálně mimo kůžičku, aby nezměkla.
 * Do omáčky nakapejte trošku výpeku z kuřete.
 * Dozdobte nějakou čerstvou bylinkou dle chuti a možností - petržel, pažitka, bazalka.
 

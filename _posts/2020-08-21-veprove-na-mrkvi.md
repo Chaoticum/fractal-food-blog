@@ -53,7 +53,7 @@ Recept je velice jednoduchý, ale přípravy jsou nečekaně zdlouhavé. Oškrá
 * Mrkvovou směs pořádně promíchejte. Dle potřeby dochuťte a znovu podlejte **vodou**.
 * Mrkev je v této chvíli ještě trochu tvrdá.
 * Vraťte maso do pekáče, přikrejte a dejte do trouby na dalších 30 minut stále při 180°C.
-* Slejte uvařené brambory. Petrželové stonky vyhoďte.
+* Slijte uvařené brambory. Petrželové stonky vyhoďte.
 * Do brambor přihoďte poctivou dávku **másla**, pokrájenou **petrželovou nať** a promíchejte.
 
 ![Maso a mrkev v pekáči](../assets/post-img/2020-08-21-veprove-na-mrkvi/pekac.jpg "Maso a mrkev v pekáči")
