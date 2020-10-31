@@ -75,4 +75,4 @@ Jednoduché rychlé.
 
 * Výsledná chuť omáčky se bude nejvíce odvíjet od rajčat. Nejlepší jsou cherry rajčata, protože bývají sladší a výraznější.
 * Ideální je používat čerstvou bazalku, ne sušenou.
-* Aby byl pokrm bezlepkový a vegenský je nutné použít bezlepkové kuřičné těstoviny bez vajíček.
+* Aby byl pokrm bezlepkový a veganský je nutné použít bezlepkové kuřičné těstoviny bez vajíček.
